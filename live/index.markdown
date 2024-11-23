@@ -1,6 +1,6 @@
 ---
 layout: default
-title: live
+title: Live
 ---
 
 
