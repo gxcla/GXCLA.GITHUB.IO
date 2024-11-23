@@ -2,7 +2,7 @@
 layout: post
 title: GXC.LA
 ---
-<img src="./images/about_gxcla.jpg" alt="GXC.LA Face" />
+<img src="./images/about-gxcla.jpg" alt="GXC.LA Face" />
 
 大家好，我一名开源爱好者 ,从大学到现在一直崇尚开源精神， 笔者是一个辽宁铁岭市人，现在主要做全栈开发研究以及学习，主要是这个站点做个人笔记以及总结，开源项目放在 github 仓库上 <https://github.com/gxcla> ,我还有很多文章放在 <https://GXC.LA/>，这个算是我的博客站点吧。
 
