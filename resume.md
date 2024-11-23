@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 一毛 是谁？
+title: GXC.LA
 ---
-<img src="./images/yimao.jpg" alt="YiMao Face" />
+<img src="./images/about_gxcla.jpg" alt="GXC.LA Face" />
 
-大家好，我叫一毛，这个ID是游戏ID ,从大学一直用到现在， 辽宁铁岭市人，现在主要做全栈开发研究以及学习，主要是这个站点做个人笔记以及总结，开源项目放在 github 仓库上 <https://github.com/YiMaoINFO> ，我的 gmail 账号是 YiMaoINFO@gmail.com 欢迎给我发邮件交流。我还有很多文章放在 <https://YiMao.INFO/>，这个算是我的博客站点吧。
+大家好，我一名开源爱好者 ,从大学到现在一直崇尚开源精神， 笔者是一个辽宁铁岭市人，现在主要做全栈开发研究以及学习，主要是这个站点做个人笔记以及总结，开源项目放在 github 仓库上 <https://github.com/gxcla> ,我还有很多文章放在 <https://GXC.LA/>，这个算是我的博客站点吧。
 
-想要更好的了解我基本信息，我还有一份[基本信息](./yimao.html)，不八卦、宅男、极客，长相太平常没有靓照可以分享。
+想要更好的了解我基本信息，我还有一份[基本信息](./gxcla.html)，不八卦、宅男、极客，长相太平常没有靓照可以分享。
 
 ## 兴趣爱好
 
