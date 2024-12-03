@@ -51,6 +51,7 @@ category: default
     }
 </style>
 
+<body>
 
     <h2>每天正能量^_^</h2>
     <div class="quote" id="quote"></div>
