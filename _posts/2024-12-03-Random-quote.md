@@ -51,7 +51,6 @@ category: default
     }
 </style>
 
-<body>
 
     <h2>每天正能量^_^</h2>
     <div class="quote" id="quote"></div>
@@ -159,6 +158,4 @@ category: default
         // 页面加载时展示一条随机语录
         displayQuote();
     </script>
-
-</body>
 
