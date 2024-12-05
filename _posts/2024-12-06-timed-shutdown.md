@@ -22,9 +22,7 @@ category: default
 
 - `/tn "ShutdownTask"`：指定任务的名称为 `ShutdownTask`。你可以根据需要修改任务名称。
 
-- `/tr "shutdown -s -f"`：指定要执行的命令，这里是 
-
-  `shutdown -s -f`，表示关机并强制关闭所有应用程序。
+- `/tr "shutdown -s -f"`：指定要执行的命令，这里是`shutdown -s -f`，表示关机并强制关闭所有应用程序。
 
   - `-s` 表示关机。
   - `-f` 表示强制关闭正在运行的应用程序（如果有的话）。
