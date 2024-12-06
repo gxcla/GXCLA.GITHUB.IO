@@ -3,7 +3,6 @@ title: 使用 `schtasks` 命令设置每天定时关机
 layout: post
 category: default
 ---
-
 通过 `schtasks` 命令，可以方便地设置 Windows 每天在指定时间自动关机。以下是步骤：
 
 ## 步骤：
