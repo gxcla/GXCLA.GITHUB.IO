@@ -142,7 +142,7 @@ mark {
 }
 
 /* 代码片断 */
-pre, code {
+/*pre, code {
 	font-family: "Courier New", Courier, monospace;
 }
 pre {
@@ -151,7 +151,7 @@ pre {
 	background: #fbfbfb;
 	padding: 10px;
 }
-
+*/
 /* 底部印刷体、版本等标记 */
 small {
 	font-size: 12px;
@@ -172,8 +172,8 @@ small {
 }
 
 /* 保证块/段落之间的空白隔行 */
-.typo p, .typo pre, .typo ul, .typo ol, .typo dl, .typo form, .typo hr, .typo table,
-.typo-p, .typo-pre, .typo-ul, .typo-ol, .typo-dl, .typo-form, .typo-hr, .typo-table {
+.typo p, .typo ul, .typo ol, .typo dl, .typo form, .typo hr, .typo table,
+.typo-p, .typo-ul, .typo-ol, .typo-dl, .typo-form, .typo-hr, .typo-table {
 	margin-bottom: 1em;
 }
 
