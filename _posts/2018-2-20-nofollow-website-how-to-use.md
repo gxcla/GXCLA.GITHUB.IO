@@ -1,7 +1,7 @@
 ---
 title: 网站怎么使用nofollow
 layout: post
-category: default
+category: article
 ---
 ## 认知nofollow
 
