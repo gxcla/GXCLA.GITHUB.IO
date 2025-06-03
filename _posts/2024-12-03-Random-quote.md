@@ -1,7 +1,7 @@
 ---
 title: GXC.LA随机语录
 layout: post
-category: default
+category: article
 ---
 
 <style>
