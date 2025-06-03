@@ -1,7 +1,7 @@
 ---
 title: 如何禁止搜索引擎转码
 layout: post
-category: default
+category: article
 ---
 ## 禁止百度搜索转码
 
