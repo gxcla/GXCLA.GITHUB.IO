@@ -2,6 +2,7 @@
 title: 使用 `schtasks` 命令设置每天定时关机
 layout: post
 category: article
+description: 定时关机能节省电能，保护设备，避免系统长时间运行造成损耗，也有助于养成良好作息与工作习惯，是高效生活与设备管理的实用助手。
 ---
 通过 `schtasks` 命令，可以方便地设置 Windows 每天在指定时间自动关机。以下是步骤：
 
