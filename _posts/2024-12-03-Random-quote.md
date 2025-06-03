@@ -2,6 +2,7 @@
 title: GXC.LA随机语录
 layout: post
 category: article
+description: 鸡汤语录虽简单，却能在低谷时给予力量，在迷茫中指引方向，提醒我们坚持初心、积极向上，是心灵的温柔支撑。
 ---
 
 <style>
