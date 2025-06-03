@@ -1,7 +1,7 @@
 ---
 title: 如何查看内存条是几代？ddr3还是ddr4
 layout: post
-category: default
+category: article
 ---
 ## 一、外观
 
