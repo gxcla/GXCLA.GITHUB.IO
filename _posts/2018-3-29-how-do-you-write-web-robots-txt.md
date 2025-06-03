@@ -1,7 +1,7 @@
 ---
 title: 网站robots.txt怎么写
 layout: post
-category: default
+category: article
 ---
 今天给自己的网站加了一个robots.txt，在网上收集整理了一些资料，给自己网站也加上了robots.txt ！ 顺便给大家分享一下！
 
