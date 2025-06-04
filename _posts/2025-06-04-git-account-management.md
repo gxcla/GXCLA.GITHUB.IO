@@ -299,8 +299,11 @@ git remote -v
 
 
 gitee   git@gitee.com:your_name/仓库名称.git (fetch)
+
 gitee   git@gitee.com:your_name/仓库名称.git (push)
+
 github  git@github.com:your_name/仓库名称.git (fetch)
+
 github  git@github.com:your_name/仓库名称.git (push)
 
 如果出现以上结果说明配置成功
