@@ -25,7 +25,7 @@ windows更改软件默认安装位置
 
 3.删除 profile.data
 
-typora安装之后，会在C:\\[Users]\AppData\Roaming\Typora 文件夹下生成一个profile.data文件，键入`%appdata`可以找到，这个文件用于判断是否版本过期，先删除它
+typora安装之后，会在C:\\[Users]\AppData\Roaming\Typora 文件夹下生成一个profile.data文件，键入`%appdata%`可以找到，这个文件用于判断是否版本过期，先删除它
 
 4.注册表权限
 
